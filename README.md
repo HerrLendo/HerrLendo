@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HerrLendo
-- 👀 I’m interested in App Development, Game Development and Spaceflight!
+- 👀 I’m interested in Web, App and Game Development
+- 🚀 Big spaceflight fan
 
 <!---
 HerrLendo/HerrLendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
